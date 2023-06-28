@@ -2,7 +2,7 @@
 ## Taller Duoc UC - 2023-1
 
 ### Recurso de ayuda
-*Nombre Template:* iPortfolio
-*Template URL:* https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-*Autor:* BootstrapMade.com
-*Licencia:* https://bootstrapmade.com/license/
+*Nombre Template:* iPortfolio__
+*Template URL:* https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/__
+*Autor:* BootstrapMade.com__
+*Licencia:* https://bootstrapmade.com/license/__
